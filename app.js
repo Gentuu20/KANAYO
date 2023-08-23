@@ -1,0 +1,1 @@
+alert("Kanayo is active")
